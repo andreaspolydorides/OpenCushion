@@ -1,2 +1,2 @@
-# opencushion
-Tools and guides on how to create personalised wheelchair cushions
+# OpenCushion
+COMING SOON: Tools and guides on how to create personalised wheelchair cushions
