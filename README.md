@@ -1,6 +1,8 @@
 # OpenCushion
 **NOTE:** This project is not yet ready for release, but this alpha version is available for testing and feedback. For pending tasks before revision 1 is released, check out the To-Do section below.
 
+![OpenCushion_Logo](/assets/images/opencushion-logo.png)
+
 ## What is OpenCushion?
 OpenCushion is an open-source project aiming to improve the accessibility of personalized wheelchair cushions. Its design focuses on financial and geographical accessibility. It aims to be affordable and possible to make with any standard consumer-level 3D printer. To personalize the cushion to each user’s individual pressure needs, this design customizes the density of a 3D printed lattice so that areas of high pressure exhibit low density and vice versa, with the aim of distributing pressure evenly.
 
