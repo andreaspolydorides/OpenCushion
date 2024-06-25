@@ -1,5 +1,5 @@
 # OpenCushion
-**NOTE:** This project is not yet ready for release, but this alpha version is available for testing and feedback. For pending tasks before revision 1 is released, check out the To-Do section below.
+**NOTE:** This project is not yet ready for release, but this alpha version will soon be available for testing and feedback. For pending tasks before we upload the alpha release, check out the To-Do section below.
 
 ![OpenCushion_Logo](/assets/images/opencushion-logo.png)
 
@@ -16,6 +16,8 @@ This is a DIY project, so it is inherently more complex than ordering a cushion 
 All you need is a 3D printer and TPU/TPE filament, we use 40D and 83A shore hardness ones (e.g. [eSUN TPE 83A 1KG](https://www.amazon.co.uk/dp/B07VLS8GWD)). A computer capable of running slicer software (not very demanding) is also needed – check your public library if you don’t have one.
 Wheelchair cushions tend to be wider and deeper than standard size 3D printers – you don’t need a large printer though, two of three methods here allow you to print smaller pieces to then join together, and soon all three will.
 
+![OpenCushion_Logo](/assets/images/SVG_cushion_objRender.jpeg)
+
 ## Which method to use?
 Depending on your exact circumstances, you might find that a different method works best for you. Do note that as of now there is no inherently better method, they’re multiple ways of achieving the same effect that will appeal to different people. For how each method works, look at their individual sections.
 
@@ -30,8 +32,9 @@ This method was developed to counter the lack of access to a pressure map, inste
 
 
 ## Planned To-Dos
+- [ ] Run material testing on lattices to inform base density suggestions
 - [ ] Finish the How-Tos on this Github page
+- [ ] Release alpha version
 - [ ] Set up a website for generation tools, a library of SVG sets and help guides
 - [ ] Set up a Discord server for community support and discussion
-- [ ] Create gyroid lattice for GCODE Generation method
-- [ ] Run material testing on lattices to inform suggestions
+- [ ] Develop gyroid lattice for GCODE Generation method
